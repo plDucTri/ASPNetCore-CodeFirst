@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\InstructorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\InstructorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\EnrollmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\EnrollmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\migrations\\20261101050933_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:migrations\\20261101050933_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\schoolappcoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:schoolappcoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|c:\\users\\tri\\source\\repos\\schoolappcoremvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A4D95-BF02-6FB5-EE45-E2C9FF542A38}|SchoolAppCoreMVC.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T09:16:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T09:15:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Enrollments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enrollments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Enrollments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Enrollments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T09:15:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T09:13:54.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T09:13:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T04:43:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Instructors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Views\\Instructors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Instructors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T09:15:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:30:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorsController.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:27:10.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:25:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:24:37.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:26:06.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20261101050933_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Migrations\\20261101050933_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261101050933_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Migrations\\20261101050933_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20261101050933_InitialCreate.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T05:09:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SchoolAppCoreMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj",
+              "RelativeDocumentMoniker": "SchoolAppCoreMVC.csproj",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj",
+              "RelativeToolTip": "SchoolAppCoreMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T05:08:18.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:47:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T04:47:45.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:46:17.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:45:51.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:45:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:45:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:45:09.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SchoolAppCoreMVC\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:44:49.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
